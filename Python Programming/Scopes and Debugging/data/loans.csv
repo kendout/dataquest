@@ -1,5 +1,5 @@
 serial,opeid,institution,address,city,state,zip,repayment_borrowers,default_borrowers,default_rate,borrower_default_count_240,principal_outstanding_240
-1,100200,Alabama Agricultural & Mechanical University,4900 Meridian Street,Normal,AL,35762-1357,145,54,37.24%,1606,954821
+1'n',100200,Alabama Agricultural & Mechanical University,4900 Meridian Street,Normal,AL,35762-1357,145,54,37.24%,1606,954821
 6,100500,Alabama State University,915 South Jackson Street,Montgomery,AL,36104-5714,164,12,7.32%,1567,1410608
 13,100900,Auburn University,107 Samford Hall,Auburn,AL,36849-5113,479,29,6.05%,269,747267
 14,831000,Auburn University Montgomery,7440 East Drive,Montgomery,AL,36117-3596,88,20,22.73%,184,457312
